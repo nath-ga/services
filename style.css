@@ -36,3 +36,17 @@ h2, h3 {
 ul {
     margin: 15px 0;
 }
+/* Kopfbereich */
+.site-header {
+    padding: 20px;
+    background: #fafafa;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
+}
+
+.site-title {
+    font-size: 22px;
+    margin: 0;
+    color: #333;
+    text-align: left;
+}
